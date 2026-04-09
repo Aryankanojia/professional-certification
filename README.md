@@ -6,7 +6,7 @@ This repository contains verified certification and internship credentials relat
 
 - **Oracle Cloud Infrastructure 2025 Certified Multicloud Architect Professional**  
   Issued by Oracle  
-  Verification Link: https://your-oci-link-here
+  Verification Link:(https://catalog-education.oracle.com/ords/certview/sharebadge?id=3B8449DDB89936F1AB9887BC88C73C98B52344B5037B05594577764D11279EE7)
 
 ## AI & Machine Learning Certifications
 
